@@ -58,7 +58,7 @@ git push
 
 8. Do you have a suggestion for a Check In question?
 
-
+What has been the biggest obstacle that you have overcome and how did you overcome it?
 
 9. What was your favorite topic this week?
 
